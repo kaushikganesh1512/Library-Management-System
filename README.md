@@ -1,4 +1,4 @@
-# 📚 Library Management System (Java + JDBC)
+# 📚 Library Management System 
 
 ## 📌 Project Overview
 This project is a console-based Library Management System developed using Java and JDBC (MySQL).  
